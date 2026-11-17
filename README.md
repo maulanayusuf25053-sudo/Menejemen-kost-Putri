@@ -15,16 +15,12 @@ Aplikasi ini merupakan sistem manajemen kost putri berbasis Python dan Streamlit
 
 ![UML Sistem Manajemen Kost Putri](assets/uml-kost-putri.png)
 
-
-## Penjelasan singkat
-
-- `Kamar` adalah kelas dasar untuk semua tipe kamar. Di sini terdapat status kamar, tarif dasar, dan perilaku umum seperti pengecekan ketersediaan.
-- `KamarBiasa` dan `KamarAC` merupakan bentuk spesifik dari kamar dengan fasilitas yang berbeda dan harga yang berbeda pula.
-- `Penghuni` menyimpan data penghuni, termasuk wali, tanggal masuk, status, dan kamar yang ditempati.
-- `Pembayaran` menghitung tagihan bulanan dan denda keterlambatan serta menyimpan histori transaksi.
-- `Kunjungan` menangani tamu yang datang ke kos dan membatasi jam kunjungan sesuai aturan.
-- `Laporan` bertugas merangkum data untuk dashboard, laporan keluaran bulanan, dan monitoring penunggak.
-- `KosService` berfungsi sebagai pusat pengelolaan, menghubungkan data kamar, penghuni, kunjungan, dan pembayaran ke antarmuka aplikasi.
+## Daftar kelas dan pembagian individu
+`UML_Class_1_Kamar_Maulana_Yusuf`,
+`UML_Class_2_Penghuni_Armaylis_Arfa`,
+`UML_Class_3_Pembayaran_Nafisah_Amalina`,
+`UML_Class_4_Laporan_Dede_Gusdiana_Cipta`,
+`UML_Class_5_Pendukung_All_Anggota`.
 
 ## Struktur file utama
 
