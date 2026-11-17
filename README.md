@@ -16,11 +16,11 @@ Aplikasi ini merupakan sistem manajemen kost putri berbasis Python dan Streamlit
 ![UML Sistem Manajemen Kost Putri](assets/uml-kost-putri.png)
 
 ## Daftar kelas dan pembagian individu
-`UML_Class_1_Kamar_Maulana_Yusuf`,
-`UML_Class_2_Penghuni_Armaylis_Arfa`,
-`UML_Class_3_Pembayaran_Nafisah_Amalina`,
-`UML_Class_4_Laporan_Dede_Gusdiana_Cipta`,
-`UML_Class_5_Pendukung_All_Anggota`.
+- `UML_Class_1_Kamar_Maulana_Yusuf`
+- `UML_Class_2_Penghuni_Armaylis_Arfa`
+- `UML_Class_3_Pembayaran_Nafisah_Amalina`
+- `UML_Class_4_Laporan_Dede_Gusdiana_Cipta`
+- `UML_Class_5_Pendukung_All_Anggota`
 
 ## Struktur file utama
 
